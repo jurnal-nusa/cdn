@@ -7,4 +7,4 @@ This is the service status page which proves that the service is running properl
 
 ![logo-yayasan]({{ site.baseurl }}/gambar/logo-yayasan.webp)
 
-Please visit our [main domain](https://nusa.or.id/).
+Please visit our [main domain](https://www.nusa.or.id/).
